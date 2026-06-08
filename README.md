@@ -45,41 +45,9 @@ const littleBun = {
 
 ---
 
-## 🛠️ 技术栈 · Tech Stack
-
-<div align="center">
-
-#### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-#### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
-
-</div>
 
 ---
 
-## 📊 GitHub 数据 · Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=LittleBunVerse&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B7CF6&icon_color=8B7CF6&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="github stats" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=LittleBunVerse&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B7CF6&ring=8B7CF6&fire=8B7CF6&currStreakLabel=8B7CF6" alt="streak stats" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LittleBunVerse&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B7CF6&text_color=c9d1d9&langs_count=8" alt="top languages" />
-
-</div>
-
-<!-- ============ 奖杯墙 ============ -->
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=LittleBunVerse&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 <!-- ============ 贡献活跃度曲线 ============ -->
 <div align="center">
@@ -107,10 +75,7 @@ const littleBun = {
 <a href="mailto:zangwl2024@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
 </a>
-<!-- 按需替换下面这些链接 -->
-<a href="#">
-  <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=hugo&logoColor=white" alt="blog" />
-</a>
+
 
 </div>
 
@@ -119,6 +84,3 @@ const littleBun = {
 <!-- ============ 底部波浪 ============ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=120&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%90%B0&fontColor=ffffff&fontSize=22&animation=twinkling" alt="footer" />
 
-<div align="center">
-  <sub>⭐️ 觉得有意思的话，欢迎逛逛我的仓库 · Made with 💜 by LittleBunVerse</sub>
-</div>
