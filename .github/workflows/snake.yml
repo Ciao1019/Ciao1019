@@ -8,6 +8,10 @@ on:
     branches:
       - main
 
+# 让 GITHUB_TOKEN 有写权限，才能 push 到 output 分支
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
