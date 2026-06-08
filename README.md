@@ -11,7 +11,7 @@
 <!-- ============ 打字机动画 ============ -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B7CF6&center=true&vCenter=true&width=520&lines=Hi+there%2C+I'm+LittleBunVerse+%F0%9F%90%B0;Frontend+%2B+Backend+%3D+Full-Stack;Crafting+pixel-perfect+UI;Building+robust+APIs;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B7CF6&center=true&vCenter=true&width=520&lines=Hi+there%2C+I'm+CiZai+%F0%9F%91%8B;An+ordinary+programmer;Working+%40+WPS+Office;Coding+%2F+AI+enthusiast;Minecraft+player+%E2%9B%8F%EF%B8%8F)](https://git.io/typing-svg)
 
 </div>
 
