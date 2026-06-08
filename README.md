@@ -13,13 +13,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B7CF6&center=true&vCenter=true&width=520&lines=Hi+there%2C+I'm+LittleBunVerse+%F0%9F%90%B0;Frontend+%2B+Backend+%3D+Full-Stack;Crafting+pixel-perfect+UI;Building+robust+APIs;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<!-- 访客计数 + 关注 + 点赞徽章 -->
-<img src="https://komarev.com/ghpvc/?username=LittleBunVerse&label=Profile%20Views&color=8B7CF6&style=flat-square" alt="profile views" />
-<a href="https://github.com/LittleBunVerse?tab=followers">
-  <img src="https://img.shields.io/github/followers/LittleBunVerse?label=Followers&style=flat-square&color=8B7CF6&logo=github" alt="followers" />
-</a>
-<img src="https://img.shields.io/badge/Focus-Full--Stack-8B7CF6?style=flat-square" alt="focus" />
-
 </div>
 
 ---
@@ -41,7 +34,6 @@ const littleBun = {
 - 🎨 喜欢把界面打磨到像素级，也热衷于设计稳健、可扩展的服务端系统
 - 🌱 正在深入 **系统设计 / 云原生 / 性能优化**
 - 💬 聊技术、聊架构、聊有趣的开源项目，随时欢迎找我
-- ⚡ 一句话：**能跑通，能跑对，还要跑得漂亮**
 
 ---
 
