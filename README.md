@@ -20,20 +20,19 @@
 ## 🌟 关于我 · About Me
 
 ```ts
-const littleBun = {
-  role: "Full-Stack Developer",
-  focus: ["Frontend Engineering", "Backend Architecture"],
-  frontend: ["React", "Vue", "TypeScript", "TailwindCSS"],
-  backend: ["Node.js", "Java", "Go", "PostgreSQL", "Redis"],
-  currentlyLearning: "System Design & Cloud Native",
-  motto: "Make it work, make it right, make it beautiful ✨",
+const CiZai = {
+  name: "CiZai",
+  title: "一个普普通通的程序员",
+  company: "金山办公 (WPS)",
+  interests: ["Coding", "AI"],
+  favoriteGame: "Minecraft ⛏️",
 };
 ```
 
-- 🐰 我是 **LittleBunVerse**，专注于打通**前端体验**与**后端架构**的全栈开发者
-- 🎨 喜欢把界面打磨到像素级，也热衷于设计稳健、可扩展的服务端系统
-- 🌱 正在深入 **系统设计 / 云原生 / 性能优化**
-- 💬 聊技术、聊架构、聊有趣的开源项目，随时欢迎找我
+- 👋 我是 **CiZai**，是一个普普通通的程序员
+- 🏢 目前就职于 **金山办公**
+- 🚀 我的兴趣主要在 **Coding / AI** 方向
+- 🎮 我喜欢 **Minecraft**
 
 ---
 
