@@ -50,7 +50,7 @@ const CiZai = {
 <!-- ============ 贡献蛇（需配 GitHub Action，见文末） ============ -->
 <div align="center">
 
-![snake animation](https://raw.githubusercontent.com/LittleBunVerse/LittleBunVerse/output/github-contribution-grid-snake-dark.svg)
+![snake animation](https://raw.githubusercontent.com/Ciao1019/Ciao1019/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
