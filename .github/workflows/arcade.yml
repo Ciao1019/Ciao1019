@@ -1,0 +1,36 @@
+name: Generate Contribution Arcade
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # 每天 UTC 00:00（北京时间 08:00）更新
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+concurrency:
+  group: contribution-arcade
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Generate Breakout contribution graphs
+        uses: abozanona/pacman-contribution-graph@v5.0.0
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          games: breakout
+
+      - name: Publish generated SVGs
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          keep_history: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
