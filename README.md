@@ -1,53 +1,55 @@
-<!--
-  ╭──────────────────────────────────────────────────────────╮
-  │  LittleBunVerse · GitHub Profile README                    │
-  │  仓库名必须和用户名一致：LittleBunVerse/LittleBunVerse      │
-  │  把本文件放到该仓库根目录的 README.md 即可在主页展示        │
-  ╰──────────────────────────────────────────────────────────╯
--->
-
-<!-- ============ 顶部横幅（渐变波浪） ============ -->
-
-<!-- ============ 打字机动画 ============ -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B7CF6&center=true&vCenter=true&width=520&lines=Hi+there%2C+I'm+Ciao1019+%F0%9F%91%8B;An+ordinary+programmer;Working+%40+WPS+Office;Coding+%2F+AI+enthusiast;Minecraft+player+%E2%9B%8F%EF%B8%8F)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FE428E&center=true&vCenter=true&width=560&lines=Hi+there%2C+I'm+Ciao1019+%F0%9F%91%8B;An+ordinary+programmer;Working+%40+WPS+Office;Coding+%26+AI+enthusiast;Minecraft+player+%E2%9B%8F%EF%B8%8F" alt="Typing SVG" />
+
+<p>
+  <a href="https://github.com/Ciao1019">
+    <img src="https://img.shields.io/badge/GitHub-@Ciao1019-FE428E?style=for-the-badge&logo=github&logoColor=A9FEF7&labelColor=141321" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="mailto:zangwl2024@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-FE428E?style=for-the-badge&logo=gmail&logoColor=F8D847&labelColor=141321" alt="Email" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 🌟 关于我 · About Me
+## 👨‍💻 关于我 · About Me
+
+> 👋 你好，我是 **CiZai**，一个普普通通的程序员，目前就职于 **金山办公 (WPS)**。热爱 **Coding** 与 **AI**，写代码之余喜欢玩 **Minecraft** ⛏️。
 
 ```ts
 const CiZai = {
   name: "CiZai",
-  title: "一个普普通通的程序员",
-  company: "金山办公 (WPS)",
+  github: "Ciao1019",
+  company: "金山办公 (WPS Office)",
   interests: ["Coding", "AI"],
   favoriteGame: "Minecraft ⛏️",
+  motto: "good good study, day day up",
 };
 ```
 
-- 👋 我是 **CiZai**，是一个普普通通的程序员
-- 🏢 目前就职于 **金山办公**
-- 🚀 我的兴趣主要在 **Coding / AI** 方向
-- 🎮 我喜欢 **Minecraft**
+<br />
 
----
+## 📊 数据统计 · GitHub Stats
 
+<p align="center">
+  <a href="https://github.com/Ciao1019">
+    <img height="195" src="https://github-readme-stats.vercel.app/api?username=Ciao1019&show_icons=true&theme=radical&show=reviews" alt="Ciao1019's GitHub Stats" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Ciao1019?tab=repositories">
+    <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ciao1019&layout=donut&theme=radical" alt="Ciao1019's Top Languages" />
+  </a>
+</p>
 
----
+<br />
 
+## 🕹️ 贡献街机 · Contribution Arcade
 
-<!-- ============ 贡献活跃度曲线 ============ -->
 <div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ciao1019&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8B7CF6&line=8B7CF6&point=ffffff&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-## Contribution Arcade
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ciao1019/Ciao1019/output/breakout-contribution-graph-dark.svg" />
@@ -57,24 +59,8 @@ const CiZai = {
 
 <sub>Breakout 正在击碎过去一年的贡献格子 · 每天自动更新</sub>
 
----
-
-## 🌐 联系我 · Connect
-
-<div align="center">
-
-<a href="https://github.com/LittleBunVerse">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-</a>
-<a href="mailto:zangwl2024@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
-</a>
-
-
 </div>
 
-<br/>
+<br />
 
-<!-- ============ 底部波浪 ============ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=120&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%90%B0&fontColor=ffffff&fontSize=22&animation=twinkling" alt="footer" />
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141321,55:4a154b,100:fe428e&height=110&section=footer&text=Thanks%20for%20visiting!&fontColor=A9FEF7&fontSize=20&fontAlignY=68&animation=twinkling" alt="Thanks for visiting" />
