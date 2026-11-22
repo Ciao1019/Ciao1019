@@ -1,21 +1,3 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FE428E&center=true&vCenter=true&width=560&lines=Hi+there%2C+I'm+Ciao1019+%F0%9F%91%8B;An+ordinary+programmer;Working+%40+WPS+Office;Coding+%26+AI+enthusiast;Minecraft+player+%E2%9B%8F%EF%B8%8F" alt="Typing SVG" />
-
-<p>
-  <a href="https://github.com/Ciao1019">
-    <img src="https://img.shields.io/badge/GitHub-@Ciao1019-FE428E?style=for-the-badge&logo=github&logoColor=A9FEF7&labelColor=141321" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="mailto:zangwl2024@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-FE428E?style=for-the-badge&logo=gmail&logoColor=F8D847&labelColor=141321" alt="Email" />
-  </a>
-</p>
-
-</div>
-
----
-
 ## 👨‍💻 关于我 · About Me
 
 > 👋 你好，我是 **CiZai**，一个普普通通的程序员，目前就职于 **金山办公 (WPS)**。热爱 **Coding** 与 **AI**，写代码之余喜欢玩 **Minecraft** ⛏️。
