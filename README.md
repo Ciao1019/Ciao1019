@@ -1,4 +1,4 @@
-## 👨‍💻 关于我 · About Me
+## 👨‍💻 About Me
 
 > 👋 你好，我是 **CiZai**，一个普普通通的程序员，目前就职于 **金山办公 (WPS)**。热爱 **Coding** 与 **AI**，写代码之余喜欢玩 **Minecraft** ⛏️。
 
@@ -15,7 +15,7 @@ const CiZai = {
 
 <br />
 
-## 📊 数据统计 · GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/Ciao1019">
@@ -29,7 +29,7 @@ const CiZai = {
 
 <br />
 
-## 🕹️ 贡献街机 · Contribution Arcade
+## 🕹️ Contribution Arcade
 
 <div align="center">
 
