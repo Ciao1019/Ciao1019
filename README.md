@@ -2,17 +2,6 @@
 
 > 👋 你好，我是 **CiZai**，一个普普通通的程序员，目前就职于 **金山办公 (WPS)**。热爱 **Coding** 与 **AI**，写代码之余喜欢玩 **Minecraft** ⛏️。
 
-```ts
-const CiZai = {
-  name: "CiZai",
-  github: "Ciao1019",
-  company: "金山办公 (WPS Office)",
-  interests: ["Coding", "AI"],
-  favoriteGame: "Minecraft ⛏️",
-  motto: "good good study, day day up",
-};
-```
-
 <br />
 
 ## 📊 GitHub Stats
@@ -39,10 +28,4 @@ const CiZai = {
   <img alt="Breakout contribution graph" src="https://raw.githubusercontent.com/Ciao1019/Ciao1019/output/breakout-contribution-graph.svg" width="100%" />
 </picture>
 
-<sub>Breakout 正在击碎过去一年的贡献格子 · 每天自动更新</sub>
-
 </div>
-
-<br />
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141321,55:4a154b,100:fe428e&height=110&section=footer&text=Thanks%20for%20visiting!&fontColor=A9FEF7&fontSize=20&fontAlignY=68&animation=twinkling" alt="Thanks for visiting" />
