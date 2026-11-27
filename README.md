@@ -7,13 +7,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/Ciao1019">
-    <img height="195" src="https://github-readme-stats.vercel.app/api?username=Ciao1019&show_icons=true&theme=radical&show=reviews" alt="Ciao1019's GitHub Stats" />
-  </a>
+  <a href="https://github.com/Ciao1019"><img height="185" src="https://github-readme-stats.vercel.app/api?username=Ciao1019&show_icons=true&theme=radical&show=reviews" alt="Ciao1019's GitHub Stats" /></a>
   &nbsp;
-  <a href="https://github.com/Ciao1019?tab=repositories">
-    <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ciao1019&layout=donut&theme=radical" alt="Ciao1019's Top Languages" />
-  </a>
+  <a href="https://ghfind.com/u/ciao1019?ref=badge"><img height="185" src="https://ghfind.com/api/card/mini/ciao1019?theme=dark" alt="GitHub Roast 评分卡" /></a>
 </p>
 
 <br />
